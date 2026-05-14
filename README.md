@@ -15,17 +15,19 @@ These skills and research interests have now converged toward my PhD research fo
 
 ## 📄 Projects
 
-### 1. Barriers to Circular Economy and Sustainable Product Development
-- **Type** : Systematic literature review  
-- **Summary** : Identified key obstacles (consumer, operational, business model) hindering the transition from linear to circular economies. Proposed an integrated conceptual framework to guide future empirical research.
+### 1. The Contradictions of Circularity: Critiquing the Marketing of Sustainable' Products for Stakeholder Implications
+- **Type** : Systematic literature review
+- **File**: [📄 Read the paper (PDF)](https://github.com/echozhang1216-lab/research-projects-in-sustainable-marketing-and-digital-innovation/blob/main/The%20Contradictions%20of%20Circularity-%20Critiquing%20the%20Marketing%20of%20Sustainable%20Products%20for%20Stakeholder%20Implications.pdf)
+- **Summary** :Critically reviewed circular economy product marketing, revealing class inequality via green premium and systematic transfer of unpaid consumer labor.Showed that circular marketing individualizes environmental responsibility, reinforces social stratification, and generates limited net ecological benefit due to rebound effects. Derived policy implications including mandatory EPR, right‑to‑repair laws, and subsidies for low‑income households’ circular access.
+### 2. Digital Marketing Strategy and Implementation Plan for Aesop
+- **Type** : Case study + strategic plan
+- **File**: [📄 Read the paper (PDF)](https://github.com/echozhang1216-lab/research-projects-in-sustainable-marketing-and-digital-innovation/blob/main/Digital%20Marketing%20Strategy%20and%20Implementation%20Plan%20for%20Aesop.pdf)
+- **Summary** : Analyzed Aesop's digital marketing ecosystem using PESTEL, SWOT, and POE frameworks, identifying critical gaps in data infrastructure and online customer experience through competitive benchmarking against Le Labo and Lululemon. Designed a RACE-based digital marketing strategy integrating AI-driven personalisation and community engagement, substantiated by academic literature on UGC and social proof.
 
-### 2. Digital Presence Evaluation and Strategic Improvement for Aesop
-- **Type** : Case study + strategic plan  
-- **Summary** : Conducted a digital audit of Aesop’s online presence (website, social media, e‑commerce). Evaluated brand positioning and engagement metrics. Developed a 4‑point improvement plan covering UX, personalization, and omnichannel integration.
-
-### 3. Co‑creation and Open Innovation on Taobao Platform
-- **Type** : Case study  
-- **Summary** : Analyzed how Taobao’s platform design and feedback mechanisms enable co‑creation between sellers and consumers. Identified key enablers (crowdsourcing, iterative prototyping, community governance) and discussed implications for platform‑mediated innovation.
+### 3. Open Innovation and Value Co-creation in Digital Platforms: A Case Study of Taobao
+- **Type** : Case study
+- **File**: [📄 Read the paper (PDF)]([papers/barriers-circular-economy.pdf](https://github.com/echozhang1216-lab/research-projects-in-sustainable-marketing-and-digital-innovation/blob/main/Open%20Innovation%20and%20Value%20Co-creation%20in%20Digital%20Platforms-%20A%20Case%20Study%20of%20Taobao.pdf))
+- **Summary** :Conducted an independent case study analyzing Taobao's strategic transformation from a transactional marketplace to a co-creative ecosystem, drawing on Chesbrough's open innovation framework and service-dominant logic. Critically evaluated inherent tensions in platform co-creation, including power asymmetry, structural exclusion, and the fragility of identity-based governance.
 
 ---
 
